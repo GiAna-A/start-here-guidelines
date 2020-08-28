@@ -1122,4 +1122,4 @@
 
 - [@minshen2012](https://github.com/minshen2012)
 
--[@GiAna-A] (https://github.com/GiAna-A)
+- [@GiAna-A](https://github.com/GiAna-A)
